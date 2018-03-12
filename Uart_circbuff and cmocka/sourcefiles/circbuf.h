@@ -2,7 +2,7 @@
  * @file circbuf.h 
  * @brief This file is to be used to project 2.
  *
- * @author Gautham
+ * Author: Yasir Aslam Shah
  * @date Oct 24, 2017
  *
  */
