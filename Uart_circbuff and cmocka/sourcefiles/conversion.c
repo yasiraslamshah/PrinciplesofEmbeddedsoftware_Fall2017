@@ -2,7 +2,7 @@
  * @file conversion.c 
  * @brief This file is to be used to project 1.
  *
- * @author Gautham 
+ *Author: Yasir Aslam Shah
  * @date Oct 2, 2017
  *
  */
