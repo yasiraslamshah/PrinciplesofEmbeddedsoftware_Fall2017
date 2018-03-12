@@ -2,7 +2,7 @@
  * project2.c
  *
  *  Created on: Oct 29, 2017
- *  Author: Gautham
+ *Author: Yasir Aslam Shah
  */
 
 #include "project2.h"
