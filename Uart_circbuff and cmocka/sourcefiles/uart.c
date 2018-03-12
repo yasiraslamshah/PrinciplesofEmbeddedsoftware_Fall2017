@@ -2,7 +2,7 @@
  * uart.c
  *
  *  Created on: Oct 28, 2017
- *      Author: Gautham
+ *      Author: Yasir Aslam Shah
  */
 
 
