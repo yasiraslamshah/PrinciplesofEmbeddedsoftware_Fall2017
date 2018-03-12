@@ -12,7 +12,7 @@
  * @file project1.h 
  * @brief This file is to be used to project 1.
  *
- * @author Srikant Gaikwad,Santhosh Thumanapalli
+ * @author Author: Yasir Aslam Shah
  * @date April 2, 2017
  *
  */
