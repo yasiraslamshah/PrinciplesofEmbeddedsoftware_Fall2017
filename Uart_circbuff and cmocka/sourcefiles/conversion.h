@@ -2,7 +2,7 @@
  * @file conversoion.h 
  * @brief This file is to be used to project 1.
  *
- * @author Gautham
+ * Author: Yasir Aslam Shah
  * @date Oct 2, 2017
  *
  */
@@ -57,7 +57,7 @@ int8_t big_to_little32(uint32_t * data, uint32_t length);
 
 
 /*@filename:  little endian to big endian
-*@brief: –short decription: a function is written that converts little endian to big indian
+*@brief: â€“short decription: a function is written that converts little endian to big indian
 *Long description: a function is used to convert the little endian to big
 *endian ,the function  swaps the msb and lsb of little endian to get the lsb
 *and msb  of big endian..
