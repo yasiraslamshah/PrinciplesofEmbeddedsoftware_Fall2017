@@ -2,7 +2,7 @@
  * project2.h
  *
  *  Created on: Oct 29, 2017
- *  Author: Gautham
+ * Author: Yasir Aslam Shah
  */
 
 #ifndef __PROJECT2_H_
